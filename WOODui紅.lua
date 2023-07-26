@@ -3,7 +3,7 @@
 
 local _CONFIG = {
 	    uiName = define,
-	}
+}
 
 		local a = {
 			Plrs = "Players",
